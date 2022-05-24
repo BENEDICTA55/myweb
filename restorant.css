@@ -1,0 +1,507 @@
+
+
+
+#gold{
+    position: relative;
+    bottom: 625px;
+    left: 550px;
+}
+
+.gold{
+    position: relative;
+  bottom: 42px;
+    left: 300px;  
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#silver{
+    position: relative;
+    bottom: 42px;
+    left: 310px;  
+    color: black;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 15px;
+    height: 30px;
+    border: 1px solid white;
+
+}
+
+.silver{
+    position: relative;
+    bottom: 620px;
+    left: 345px;
+}
+
+#bold{
+    font-size: 65px;
+    color: rgb(255, 0, 0);
+}
+
+.bold{
+    position: relative;
+    left: 150px;
+}
+
+#book{
+    position: relative;
+    left: 60px;
+    top: 15px;
+}
+
+
+
+
+.book{  position: relative;
+    bottom: 300px;
+    left: 100px;
+}
+
+#soul{
+    position: relative;
+    right: 55px;
+    bottom: 30px;
+    font-size: 35px;
+}
+
+.soul{
+    position: relative;
+    font-size: 17px;
+    right:30px ;
+    bottom: 45px;
+    display: flexbox;
+}
+
+#good{
+    position: relative;
+    right: 65px;
+    bottom: 62px;
+    font-size: 19px;
+}
+
+.good{
+    position: relative;
+    right: 30px;
+    bottom: 80px;
+    font-size: 19px;
+}
+
+#bad{
+    position: relative;
+    right: 20px;
+    bottom: 90px;
+    font-size: 16px; 
+    color: rgba(255, 0, 0, 0.979);
+    cursor: pointer;
+}
+
+.bad{
+    position: relative;
+    left: 550px;
+    bottom: 710px;
+}
+
+#love{
+    position: relative;
+    right: 0px;
+    bottom: 30px;
+    font-size: 35px;  
+}
+
+.love{
+    position: relative;
+    left:10px;
+    bottom: 50px;
+    font-size: 35px;  
+}
+
+#hate{
+    position: relative;
+    font-size: 19px;
+    right:50px ;
+    bottom: 65px;
+    display: flexbox;
+}
+
+.hate{
+    position: relative;
+    font-size: 19px;
+    right:45px ;
+    bottom: 80px;
+    display: flexbox;
+}
+
+#green{
+    position: relative;
+    font-size: 19px;
+    left:35px ;
+    bottom: 95px;
+    display: flexbox;
+}
+
+.green{
+    position: relative;
+    right: 0px;
+    bottom: 105px;
+    font-size: 16px; 
+    color: rgba(255, 0, 0, 0.979);
+    cursor: pointer;
+}
+
+#pink{
+    position: relative;
+    left: 950px;
+    bottom: 1190px;
+}
+
+.pink{
+    position: relative;
+    right: 9px;
+    bottom: 20px;
+    font-size: 35px;  
+}
+
+#yellow{
+    position: relative;
+    font-size: 19px;
+    right: 15px;
+    bottom: 30px;
+    display: flexbox;
+}
+
+.yellow{
+    position: relative;
+    font-size: 19px;
+    right: 28px;
+    bottom: 45px;
+    display: flexbox;
+}
+
+#blue{
+    position: relative;
+    font-size: 19px;
+    left: 45px;
+    bottom: 60px;
+    display: flexbox;
+}
+
+.blue{
+    position: relative;
+    left: 35px;
+    bottom: 70px;
+    font-size: 16px; 
+    color: rgba(255, 0, 0, 0.979);
+    cursor: pointer;
+}
+
+#brown{
+    position: relative;
+    bottom: 1100px;
+    left: 510px;
+}
+
+.brown{
+    position: relative;
+    bottom: 1500px;
+}
+
+#white{
+    font-size: 40px;   
+}
+
+.white{
+    font-size: 19px;
+    position: relative;
+    bottom: 17px;
+}
+
+#red{
+    position: relative;
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    border: 1px solid red;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    bottom: 20px;
+    cursor: pointer;
+}
+
+.red{
+    position: relative;
+    background-color: rgba(245, 222, 179, 0.192);
+    width: 1300px;
+    height: 700px;
+    bottom: 1410px;
+    z-index: -1;
+}
+
+#peach{
+    position: relative;
+    top: 100px;
+}
+
+.peach{
+    position: relative;
+    left: 750px;
+    bottom: 300px;
+}
+
+#grey{
+    font-size: 45px;
+}
+
+.grey{
+    position: relative;
+    font-size: 19px;
+    bottom: 10px;
+}
+
+#whine{
+    position: relative;
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    border: 1px solid red;
+    width: 160px;
+    height: 40px;
+    font-size: 15px;
+    bottom: 5px;
+    cursor: pointer;
+    
+}
+
+.whine{
+    position: relative;
+    background-color: black;
+    width: 1300px;
+    height: 900px;
+    bottom: 1410px;
+}
+
+#goat{
+    position: relative;
+    left: 45px;
+    top: 30px;
+}
+
+.goat{
+    position: relative;
+    color: white;
+}
+
+#four{
+    position: relative;
+    left: 180px;
+    bottom: 240px;
+    line-height: 2;
+    font-size: 15px;
+    color: gray;
+}
+
+.four{
+    position: relative;
+    line-height: 2;
+    font-size: 15px;
+}
+
+#five{
+    position: relative;
+    line-height: 2;
+    font-size: 15px;
+    left: 400px;
+    bottom: 480px;
+}
+
+.five{
+    position: relative;
+    left: 600px;
+    bottom: 780px;
+    line-height: 2;
+    font-size: 15px;
+    color: gray; 
+}
+
+#six{
+    position: relative;
+    left: 880px;
+    bottom: 1020px;
+    line-height: 2;
+    font-size: 15px;
+    color: gray;
+    
+}
+
+.six{
+    position: relative;
+    left: 600px;
+    bottom: 780px;
+    color: white;
+}
+
+
+
+
+#seven{
+    position: relative;
+    left: 0px;
+    bottom: 990px;
+    line-height: 2;
+    font-size: 15px;
+    color: gray; 
+    
+}
+
+.seven{
+    position: relative;
+    left: 0px;
+    bottom: 990px;
+    color: white;
+}
+
+#eight{
+    position: relative;
+    left: 210px;
+    bottom: 1410px;
+    line-height: 2;
+    font-size: 15px;
+    color: gray;  
+}
+
+.eight{
+    position: relative;
+    left: 210px;
+    bottom: 1410px;
+    color: white;
+}
+
+#nine{
+    position: relative;
+    left: 440px;
+    bottom: 1680px;
+    line-height: 2;
+    font-size: 15px;
+    color: gray;  
+}
+
+.nine{
+    position: relative;
+    left: 440px;
+    bottom: 1680px;
+    color: white;
+}
+
+#ten{
+    position: relative;
+   top: 0px;
+   right: 60px;
+    
+}
+
+.ten{
+    position: relative;
+    left: 3px;
+    bottom: 60px;
+    font-size: 12px;
+
+}
+
+#tent{
+    position: relative;
+    width: 180px;
+    height: 80px;
+    border-radius: 10px;
+    bottom: 1800px;
+    left:950px ;
+    cursor: pointer;
+    background-color: rgba(128, 128, 128, 0.993);
+    
+    
+}
+
+.tent{
+    position: relative;
+    left: 5px;
+    bottom: 70px;
+    font-size: 20px;
+}
+
+#one{
+    position: relative;
+    width: 180px;
+    height: 80px;
+    border-radius: 10px;
+    bottom: 1700px;
+    left:765px ;
+    cursor: pointer;
+    background-color: rgba(128, 128, 128, 0.993);
+}
+
+.one{
+    position: relative;
+    top: 0px;
+    right: 60px;
+}
+
+#two{
+    position: relative;
+    left: 4px;
+    bottom: 60px;
+    font-size: 10px;
+}
+
+.two{
+    position: relative;
+    left: 17px;
+    bottom: 70px;
+    font-size: 20px;
+}
+
+a{
+    color: gray;
+    text-decoration: none;
+}
+
+
+a:hover{
+    color: white;
+
+}
+
+#cow{
+    position: relative;
+    bottom: 1500px;
+}
+
+.cow{
+    position: relative;
+    bottom: 1580px;
+    left: 90px;
+    
+}
+
+#dog{
+    position: relative;
+    bottom: 1615px;
+    left: 590px; 
+    color: gray;
+}
+
+.dog{
+    position: relative;
+    bottom: 1655px;
+    left: 990px; 
+    cursor: pointer;
+}
+
+footer{
+    overflow-x:  hidden;
+   max-width: 100%;
+    padding: 0;
+    margin: 0;
+    height: 100%;  
+}
+
